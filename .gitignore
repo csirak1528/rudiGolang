@@ -1,0 +1,6 @@
+main/main
+*.exe
+*.rudi
+.DS_Store
+*.txt
+
